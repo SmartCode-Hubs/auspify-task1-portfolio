@@ -17,6 +17,14 @@ A modern, responsive, full-stack personal portfolio built during the 4-week prac
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB Atlas (Mongoose)
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+
+### Contact Form
+![Contact Page](./screenshots/contact-page.png)
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
